@@ -1,5 +1,5 @@
 # Hi there, I'm Thilakshan!
-## Junior Data Engineer
+## Software Engineer
 ---
 ## Introduction
 #### An associate software engineer working at Sainsbury's Digital, Tech and Data, holding a recent mathematics degree from the University of Nottingham. My passion lies in the intersection of data and technology, and I have further honed my skills through specialized training in data engineering at Aicore. With approximately two years of experience in *code development*, coupled with a year's worth of hands-on expertise in *database management* and SQL, I possess a well-rounded understanding of *data-driven solutions*. My academic background, combined with practical industry knowledge, equips me to tackle complex challenges and contribute effectively to projects requiring *data analysis* and *technology implementation*.
